@@ -2,8 +2,8 @@
 
 ###### Use
 
-###### WASD to Move
+   ###### WASD to Move
 
-###### E to Pickup
+  ###### E to Pickup
 
-###### Left Click to shoot
+  ###### Left Click to shoot
